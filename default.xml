@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-    <remote name="github" fetch="https://github.com/"/>
+    <remote name="mbed" fetch="https://github.com/ARMmbed"/>
+    <remote name="esp" fetch="https://github.com/espressif"/>
 
 
-    <default revision="master" remote="github" />
 
 
-    <project name="mbed-os.git" remote="github" path="/ARMmbed/mbed-os" />
-    <project name="esp-idf.git" remote="github" path="/espressif/esp-idf" />
+
+    <project name="mbed-os.git" remote="mbed" path="mbed-os" />
+    <project name="esp-idf.git" remote="esp" path="esp-idf" />
 
 
 

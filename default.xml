@@ -5,6 +5,7 @@
 
 
 
+    <default revision="master" sync-j="4" />
 
 
     <project name="mbed-os.git" remote="mbed" path="mbed-os" revision="master"/>

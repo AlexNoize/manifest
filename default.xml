@@ -6,8 +6,8 @@
     <default revision="master" remote="github" />
 
 
-    <project name="mbed-os.git" remote="github" path="ARMmbed/mbed-os" />
-    <project name="esp-idf.git" remote="github" path="espressif/esp-idf" />
+    <project name="mbed-os.git" remote="github" path="/ARMmbed/mbed-os" />
+    <project name="esp-idf.git" remote="github" path="/espressif/esp-idf" />
 
 
 

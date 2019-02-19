@@ -7,8 +7,8 @@
 
 
 
-    <project name="mbed-os.git" remote="mbed" path="mbed-os" />
-    <project name="esp-idf.git" remote="esp" path="esp-idf" />
+    <project name="mbed-os.git" remote="mbed" path="mbed-os" revision="master"/>
+    <project name="esp-idf.git" remote="esp" path="esp-idf" revision="master"/>
 
 
 
